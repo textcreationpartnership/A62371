@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written to the Jewes by Rabbi Moses Scialitti, a Jew of Florence baptized June 14. 1663. ; delaring the reasons of his conversion, and exhorting them to embrace the Christian faith.</title>
+            <author>Scialitti, Paul Colend.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62371</idno>
+            <idno type="STC">Wing S908</idno>
+            <idno type="STC">ESTC R8949</idno>
+            <idno type="EEBO-CITATION">11806531</idno>
+            <idno type="OCLC">ocm 11806531</idno>
+            <idno type="VID">49457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 547:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written to the Jewes by Rabbi Moses Scialitti, a Jew of Florence baptized June 14. 1663. ; delaring the reasons of his conversion, and exhorting them to embrace the Christian faith.</title>
+                  <author>Scialitti, Paul Colend.</author>
+               </titleStmt>
+               <extent>[2], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Paul Colend Scialitti.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity.</term>
+               <term>Christian converts from Judaism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49457:1"/>
+            <pb facs="tcp:49457:1" rendition="simple:additions"/>
+            <p>A LETTER Written to the JEWES</p>
+            <p>By <hi>Rabbi Moſes Scialitti</hi>
+            </p>
+            <p>A JEW of FLORENCE Baptized <hi>June</hi> 14. 1663.</p>
+            <p>Declaring the Reaſons of his Converſion, and exhorting them to embrace the CHRISTIAN FAITH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <div type="body_of_letter">
+               <pb facs="tcp:49457:2"/>
+               <pb facs="tcp:49457:2"/>
+               <opener>
+                  <salute>BRETHREN,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE grace of God the Father, the love of his only begotten Son, Redeemer of the world, and the influence of the Holy Ghoſt, which hath enlightned my under<g ref="char:EOLhyphen"/>ſtanding, and mollified the hardneſs and obſtinacy of my heart, and brought me to the truth of the Holy Goſpel, and lively Faith in Jeſus Chriſt our bleſſed Saviour. The ſame love, the ſame grace, and the ſame lively Faith in Chriſt I ſo much the more deſire by you, by how much the more I ſee my ſelf come out of darkneſs into light; from lies to the truth, from the dreadful wrath of God, which hangeth over the heads of unbelievers, to the true and eternal enjoyment pro<g ref="char:EOLhyphen"/>miſed to the faithful. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>If ye ſhall be willing and obe<g ref="char:EOLhyphen"/>dient,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 1.19, 20.</note> 
+                  <hi>ye ſhall eat of the good of the land, and if ye ſhall refuſe &amp; rebel ye ſhall be devoured with the ſword.</hi> Open therefore the eyes of your underſtanding, my brethren, and im<g ref="char:EOLhyphen"/>brace, own, and believe in this Chriſt the true Meſſi<g ref="char:EOLhyphen"/>ah, the true and only Son of the Eternal Father, true God become man, only to ſatisfy his juſtice for mankind, the true cauſe of our ſalvation; and leſt ye ſhould believe, that this reſolution made by me, (through the grace of God and his only Son Jeſus
+<pb n="2" facs="tcp:49457:3"/>
+Chriſt, whoſe Faith I imbrace) were a meer madneſs or fancy, or a vain reſolution, either out of deſpair, covetouſneſs, ambition, or to procure unto me the favour of ſome great Prince; truly no 'tis a meer mo<g ref="char:EOLhyphen"/>tive of truth, ſo much the more clear, by how much the ſun is above darkneſs, the light above obſcurity: and I tell you, that I find my ſelf in this Truth ſo ſatis<g ref="char:EOLhyphen"/>fied, as if I were return'd from death unto life. The which I ſhall prove unto you my Brethren, not only by the Faith which I have in Jeſus Chriſt, not only by the Law of love and life of promiſe, which he hath leſt unto us, (the which makes manifeſt unto all the world, that it can not be but a divine Law) but ſo purely and ſo clearly I promiſe to demonſtrate it unto you <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by the Law of <hi>Moſes</hi> by the Prophets, and by the words of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the Rabbies, that I am certain that ye ſhall not be able to forbear confeſsing him, unleſs by the hardneſs of your hearts ye be hindred: pray therefore unto God that he grant ye that which he hath promiſed by the Prophet, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And I will take away the ſtony heart out of your fleſh,</hi>
+                  <note place="margin">
+                     <hi>Ezek.</hi> 36.26, 27.</note> 
+                  <hi>and I will give to you an heart of fleſh, &amp;c. and cauſe you to walk in my ſtatutes, &amp;c.</hi> to the end that ye may underſtand and apply your ſelves unto the light brought unto you by me with evident reaſons; and I hope in this, my good Chriſt, the true comfort of my ſoul, he will give me his grace that my words may prove effectual in you; for I know ye ſhall not be able to anſwer, neither will ye have any ſtarting hole to ſtep or fly from the argu<g ref="char:EOLhyphen"/>ments which I ſhall alledge unto you, which ſhall be grounded all of them on the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Law of <hi>Moſes,</hi> as aforeſaid, or by Rabinical Texts unto which
+<pb n="3" facs="tcp:49457:3"/>
+ye give ſo much credit, that ye ſay <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>who ſhall not obſerve their words deſerves death;</hi> let us come then to the point.</p>
+               <p>The knowledge which from the Prophecies is diſco<g ref="char:EOLhyphen"/>vered of the coming and Faith of Chriſt would require much time and place to explain them, by reaſon of the difficulty of the matter; therefore we will touch only ſome part (deferring the enlargement to the Book which I am making, of the Exaltation of the Faith of Chriſt in the Religion of the Catholick Church) by the proper place of the Rabbies and Caballiſts: firſt I will prove to you how the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Law of Moſes</hi> was to have an end, and not be eternal; and this I prove unto you out of <hi>Deuteronomy,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>The Lord thy God will raiſe up unto thee a Prophet from the midſt of thee,</hi>
+                  <note place="margin">
+                     <hi>Dan.</hi> 18.15.</note> 
+                  <hi>of thy Bre<g ref="char:EOLhyphen"/>thren, like unto me, unto him you ſhall hearken.</hi> Tell me Brethren, have not ye that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>that there hath not been in</hi> Iſrael <hi>a Prophet like</hi> Moſes; thus then do I frame my argument, God promiſeth that there ſhall be one Prophet <hi>(ſhall riſe up)</hi> an affirma<g ref="char:EOLhyphen"/>tive word as <hi>Moſes (like unto me)</hi> there hath not been any of the Prophets of his degree, as the Rabbies ſay in the Talmud. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>All the Prophets have propheſied in a looking-glaſs as in the dark, and</hi> Moſes <hi>hath propheſied in a looking-glaſs as in the light,</hi> ſet<g ref="char:EOLhyphen"/>ting forth the quality of <hi>Moſes,</hi> and that there hath been no Prophet ſo great as he. Then if he hath not been, he was to be, for to keep the Divine promiſe, and who was it? Chriſt, And therefore he ſayes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>like to me;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>like to me</hi> in giving Law. As I give you Law, ſo he is to give you Law, and therefore now I
+<pb n="4" facs="tcp:49457:4"/>
+command you, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>and to him you ſhall heark<g ref="char:EOLhyphen"/>en.</hi> And not only this, but proceeds ſaying, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>That whoſoever will not hearken unto my words,</hi>
+                  <note place="margin">
+                     <hi>Verſe</hi> 19.</note> 
+                  <hi>which he ſhall ſpeak in my name, I will require it of him.</hi> Obſerve, my Hebrew Brethren, that in the keeping of the firſt Law, the text ſaith <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Curſed be he who confirmeth not the words of this Law to do them.</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 18.15.</note> And not doing them he lies under a curſe. But by this change &amp; new Law, it is not enough to ly under a curſe; but the text ſaith moreover, <hi>I will require it of him</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> where ye ſee clearly proved to any body of underſtanding, that this change of Law was to be. By your own Rabbies (though amongſt Chriſtians it be taken but for a ſlender authority) I will prove it un<g ref="char:EOLhyphen"/>to you, by what they ſay <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>becauſe the Hogg is called</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (which is deri<g ref="char:EOLhyphen"/>ved from the Verb <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies to <hi>return) only becauſe its end is to return;</hi> a time is to come that it will be lawful to eat it. O how, according to your ſelves Brethren, who ſo much believe the ſayings of your Rabbies, hath this Rabbie ſpoken prophetically, ſaying, a time will come, that although a Hogg be, by a clear Text of the Sacred Scriptures of the Old Teſtament,<note place="margin">
+                     <hi>Lev.</hi> 11.9.</note> not to be eaten, as he ſaith <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>and the Swine,</hi> &amp;c. <hi>of their fleſh ſhall ye not eat;</hi> yet that it will be lawful to eat of it. And what elſe will it ſignifie, only that by the coming of our Lord Jeſus Chriſt, the Law is by him renewed, grounded upon the firſt precept, given by God unto <hi>Noah,</hi> which ſayes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Even as the green herb have I given you all things.</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 9.3.</note> All is lawful for ye to eat; the Hogg returned once again unto its
+<pb n="5" facs="tcp:49457:4"/>
+former condition; that it ſhould be lawful to eat it. Where it is ſeen, that as well by the ſacred Text, as by the ſayings of the Rabbies, his Law was to have a change, and a renewing. The third proof, that not only it was to be changed in corporal things, but alſo in divine and ſpiritual; I will prove it unto you by <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Rabbies,</hi> when they ſay, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>They have demanded of the divine Law what de<g ref="char:EOLhyphen"/>ſerveth a ſinner, what puniſhment muſt he have? Anſwer, that he bring a ſacrifice, and he ſhall be pardoned. They have demanded of God himſelf what deſerveth a ſinner, what pu<g ref="char:EOLhyphen"/>niſhment muſt he have? Anſwer, nothing elſe, only repen<g ref="char:EOLhyphen"/>tance, and he ſhall be pardoned, proving of it from the Verſe which</hi> David <hi>ſaid, Man and beaſt ſhall God ſave:</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> What elſe can be declared by your Rabbies themſelves, but that a Time was to come,<note place="margin">
+                     <hi>Pſalm</hi> 36.</note> that there ſhould not be any need at all of ſacrifices of beaſts or animals, for the remiſſion of ſins, but only bare repentance, ſince that ſacrifice was nothing elſe but the Figure &amp; Type of the ſacrifice of Chriſt (as I refer to an other place the particular explanation thereof.) It ſufficeth hitherto to have proved unto you by reaſons evident, powerful and clear, that this your (and my former) Law was to be changed. Therefore if it be true (as I proved) that this change muſt be, it cannot be by any other than by this ſecond Law of Charity and Grace, of our Lord Jeſus Chriſt, who is the true Meſſias, and God, and the Son of God, in one and the ſame perſon. But firſt I will prove unto you, the qua<g ref="char:EOLhyphen"/>lities that the Meſſias is to have, that not only he is to be man born of a woman, but God himſelf in eſſence,
+<pb n="6" facs="tcp:49457:5"/>
+and his Son by generation; and this with brevity, that I may not be tedious (deferring the full enlargement of the ſame to my next work) that he muſt be God himſelf, I prove it unto you, the Prophet ſaith, ſpeak<g ref="char:EOLhyphen"/>ing of the Meſsias <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And this is his name whereby he ſhall be called,</hi>
+                  <note place="margin">
+                     <hi>Jer.</hi> 23.9.</note> 
+                  <hi>the Lord our Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and in another place,<note place="margin">
+                     <hi>Cap.</hi> 33.16.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And this is the name wherewith he ſhall be called, the Lord our Righteouſneſs.</hi> Well, ye know, my Heb. Brethren, that this name of Jehovah, that is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Lord, can not be given, nor is it ever given, nor is it found written, but for the proper divine Eſſence (as your Cabaliſts do ſay) <hi>i. e.</hi> the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>vein and ſourſe</hi> of all ſacred and di<g ref="char:EOLhyphen"/>vine names; and is called by them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a proper name,</hi> and <hi>eſſential name,</hi> and others they call them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſurnames</hi> which may be found written with pro<g ref="char:EOLhyphen"/>phane ſignifications, as <hi>Eloim</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which may ſigni<g ref="char:EOLhyphen"/>fie <hi>Idols</hi> or <hi>Judges,</hi> or elſe <hi>Adonai</hi> written in this manner <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which may be interpreted prophanely for, <hi>my Lords,</hi> but yet when this name is written with this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jehovah,</hi> it cannot be allow'd otherwiſe than Sacred, Holy, and for Divine Eſſence it ſelf. Then if the Meſsiah is called with this title of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jehovah,</hi> he muſt be God himſelf, and not an ordinary man. I obſerve alſo, Brethren, that the Prophet <hi>Iſaiah</hi> ſpeaking of the Meſsiah, and of the names by which he is to be called, ſaith <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And his name ſhall be called wonderful,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 9.6.</note> 
+                  <hi>Counſellor, the mighty God, the everlaſting Father, the Prince of Peace.</hi> O grand Titles among the reſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the mighty God,</hi> ſpi<g ref="char:EOLhyphen"/>rituality <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>God,</hi> &amp; Humanity conjoyn'd <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (deriving from the name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies <hi>Man.</hi>) Obſerve that ye ſhall not find in all the ſacred Scriptures any parti<g ref="char:EOLhyphen"/>cular
+<pb n="7" facs="tcp:49457:5"/>
+perſon intituled <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>God</hi> (with this word) only the Meſsias, w<hi rend="sup">ch</hi> was to come, for whom had been ſpoken al the Prophecies w<hi rend="sup">ch</hi> have been in him fulfilled; thus then the Meſsias is not only to be corporeal, as ye believe, but corporeal and ſpiritual both, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as if <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>God and man.</hi> And it was reaſon, Brethren, that it ſhould be ſo: for if we ſhall go about to conſider the work that this Meſsias came to do, and whence it pro<g ref="char:EOLhyphen"/>ceeds, we ſhall ſee, that it was not expedient that he ſhould be meer man; for this Meſsias proceeds only, as wel ye know, by occaſion of the curſe given by God un<g ref="char:EOLhyphen"/>to our firſt Father <hi>Adam,</hi> for the ſin of the fruit, having ſaid unto him <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for ye well know where it is ſpoken duplicately, <hi>by dying thou ſhalt die,</hi> its interpreted by your own very Rabbies, that it treats always of two deaths, that is death ſpiritual, and death corporeal or temporal; ſo that to the end that the world ſhould not periſh for this great ſin, the mercy of God hath found the means for to appeaſe his juſtice, and to ſave the world from this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>diabolical ſerpent;</hi> for ye know well what the Rabbies ſay, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>He is the ſerpent, he is the wicked temptati<g ref="char:EOLhyphen"/>on, he is the Devil, he is the Embaſſador of death, he comes down and tempts, he riſeth and accuſeth, he deſcends and takes the ſoul.</hi> So that this ſerpent is nothing elſe but diabolical temptation, for God promiſeth to put ha<g ref="char:EOLhyphen"/>tred betwixt this ſerpent and the ſeed of the woman, inſomuch that he ſaith <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>He ſhall bruiſe thy head, and thou ſhalt bruiſe his heel:</hi> what elſe can this clearly ſignifie, with the foundation, as I have expreſt unto you, of ſpiritual death to w<hi rend="sup">ch</hi> 
+                  <hi>Adam</hi> was condemned, the w<hi rend="sup">ch</hi> as ye know muſt ceaſe with
+<pb n="8" facs="tcp:49457:6"/>
+the coming of the Meſsias, as your Rabbies ſay, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>In the time to come the Divine Majesty will take the wicked temptation, and behead it before the righteous,</hi> to the end there may be no more temptation nor ſpiritual death; but the remedy of all the evils, as well temporal as ſpiritual which flow from ſin might be obtained by the coming of the Meſsiah, and for theſe ſo great effects a meer man was not ſufficient, and therefore he was to be God and man. And the benefits of his coming were not to be extended to the Hebrews alone, but to other nations alſo; that all the world might be united in the union of one Law and one faith, and attain ſalvation thereby, according to the Prophet <hi>Iſaiah</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>The people that walked in darkneſs have ſeen a great light.</hi>
+                  <note place="margin">Chap 9.2.</note> 
+                  <hi>They that dwell in the land of the ſhadow of death, upon them hath the light ſhined,</hi>
+                  <note place="margin">ver. 6.</note> and then it follows, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>for unto us a childe is born,</hi> which ye know well to be a prophe<g ref="char:EOLhyphen"/>cy of the Meſſiah, as I have already declared. And according unto your account of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the myſtical ſenſe</hi> ye know the Rabbines ſay that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>There is one ſignification in the writing, and there is one ſignification in the reading,</hi>
+                  <note place="margin">ver. 7.</note> which being gran<g ref="char:EOLhyphen"/>ted, let us conſider the following verſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Of the increaſe of his Government and peace there ſhall be no end.</hi> This word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>of the increaſe</hi> muſt be obſerved, that the <hi>Mem</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>finalis</hi> is in the midſt of it, an extraordinary unuſual thing, and never allowed by any rule. Let us obſerve then that this <hi>Mem</hi> is a numerical letter denoting the number 600. And from the time of this Prophecie of <hi>Iſaiah</hi> to the birth of our Lord Jeſus Chriſt are juſt 600. years ac<g ref="char:EOLhyphen"/>cording
+<pb n="9" facs="tcp:49457:6"/>
+to the following computation: <hi>Uzziah</hi> reign<g ref="char:EOLhyphen"/>ed 52. years, <hi>Jotham</hi> 16. <hi>Ahaz</hi> 16. <hi>Hezekiah</hi> 29. <hi>Ma<g ref="char:EOLhyphen"/>naſſeh</hi> 55. <hi>Ammon</hi> 2. <hi>Joſiah</hi> 31. <hi>Jehoiakim</hi> 11. <hi>Zedekiah</hi> 11. The captivity of Babylon laſted 70. years, and the ſe<g ref="char:EOLhyphen"/>cond temple 420. which are in all 713. Now if we take away 40. years for the former part of the reign of <hi>Uzziah</hi> before <hi>Iſaiah</hi> began to Propheſie, and 33. years for the time in which our Saviour lived upon earth, and 40. years more for the time from his paſſion to the deſtruction of the Temple, the number to be ſub<g ref="char:EOLhyphen"/>tracted from 713. will be 113. and the remainder 600. So then the <hi>Mem finalis</hi> was put on purpoſe in the midſt of this word, to ſignifie that this Meſſiah, this childe to whom the Prophet gives ſuch honourable titles, and in whom this increaſe of Government was to be fulfilled ſhould be born juſt 600. years after the date of the prophecy, as Jeſus of <hi>Nazareth</hi> the true Meſſias indeed was. By whoſe com<g ref="char:EOLhyphen"/>ing alſo was fulfilled that Prophecy of <hi>Jeremiah,</hi> which ſaith, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">
+                     <hi>Jer.</hi> 31.31, 32, 33.</note> 
+                  <hi>Behold the days come, ſaith the Lord, that I will make a new covenant with the houſe of</hi> Iſrael, <hi>and with the houſe of</hi> Judah. <hi>Not according to the covenant that I made with their fathers in the day that I took them by the hand, to bring them out of the land of Egypt, (which my cove<g ref="char:EOLhyphen"/>venant they brake, although I was an husband unto them, ſaith the Lord.) But this ſhall be the covenant that I will make with the houſe of</hi> Iſrael, <hi>&amp;c.</hi> What other thing bre<g ref="char:EOLhyphen"/>thren can this change of Covenant mean, but only the aboliſhing of the Law of <hi>Moſes</hi> which was the
+<pb n="10" facs="tcp:49457:7"/>
+covenant ratified in the day that our Fathers went out of the land of Egypt, and the ſubſtituting in the room of it the Law of Chriſt, which is a new and a better cove<g ref="char:EOLhyphen"/>nant, the benefit whereof, according to the following words of this Prophecy, is a more diſtinct and gene<g ref="char:EOLhyphen"/>ral knowledge of God, which is contained in the know<g ref="char:EOLhyphen"/>ledge of this Meſſiah God and man, as is before de<g ref="char:EOLhyphen"/>clared. You know alſo that the Meſſias at his coming muſt through this general knowledge of God, take away all Idolatry, as from many places I could prove, if it were not already confeſt by you without any con<g ref="char:EOLhyphen"/>tradiction; if then this Meſſias muſt be God and man, if he muſt redeem the world, if he muſt take away all Idolatry, it remains onely for us to prove that this Jeſus is that Meſſias, that ye may not ſay, 'tis true indeed the Meſſias is of that eſſence, and ſhall unite to his Di<g ref="char:EOLhyphen"/>vinity the humane nature, and muſt perform thoſe works which you have ſpoken of, but all this will come to paſs hereafter, he is not yet come. To which I an<g ref="char:EOLhyphen"/>ſwer, that as the Law of <hi>Moſes</hi> is received for the ſake of an univerſal Tradition generally acknowledged in every nation, and conſequently the hiſtory of the mira<g ref="char:EOLhyphen"/>cles there recorded is worthy of belief. So alſo is the Law of Chriſt: for ſince the firſt publication of his Goſpel, it hath been generally acknowledged, and without contradiction, that in ſuch a certain time Je<g ref="char:EOLhyphen"/>ſus Chriſt lived and died, and ſoon after his Goſpel was written and proclaimed by his Diſciples; who neither wrote nor preached it for gold nor ſilver, nor compliance with any Prince, but on the contrary thereby expoſed themſelves to many ſorrows and a cruel death. Now ye know the rule of the Rabbines, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>A man ſins not but for himſelf,</hi> it is
+<pb n="11" facs="tcp:49457:7"/>
+not imaginable that one man ſhould ſin for another without the expectation of ſome profit or gain, but on the contrary an apparent certainty of perſecution, and death: It is therefore a ſign and evident proof of the tru h of their relation, that they ſuffered themſelves to be put to death, rather then conceal the doctrine which they were commanded to publiſh. Some hea<g ref="char:EOLhyphen"/>then Authors alſo have made remarkable mention of Chriſt, and ſome of the circumſtances of his life and death, the ſubſtance of whole ſtory remains to this day uncontradicted by any writer of thoſe times. Ye know alſo the common rule <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the voice is true which is not ſtopt.</hi> Now if the Hiſtory of Chriſt be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a voice which is not ſtopt,</hi> it is neceſſary by your own rule to confeſs that it is true. Now let us add to this acknowledged truth the conſideration of the time, when the fulfilling of the prophecies con<g ref="char:EOLhyphen"/>cerning the Meſſias was expected, and we ſhall ſee how the coming of Jeſus of <hi>Nazareth</hi> did fully conſort therewith, which hath in part been proved already from the 9. of <hi>Iſaiah,</hi> and may be further explained in the interpretation of the following Prophecies, of which the firſt ſhall be that of <hi>Daniel</hi> concerning <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the ſeventy weeks,</hi>
+                  <note place="margin">
+                     <hi>Dan.</hi> 2.24.</note> &amp;c. in which the time of the Meſſiahs coming is clearly intimated; for from the beginning of the captivity of <hi>Babylon</hi> to the deſtruction of the ſecond Temple, are juſt ſeventy <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>weeks of years,</hi> that is, ſeventy times ſeven, <hi>viz.</hi> four hundred and ninety years, the captivity laſted 70. and the ſecond Temple, 420. years, the deſtruction of which concluded the firſt coming of Chriſt the Meſſiah, the Saviour, of the world. It is neceſſary therefore to confeſs that this Jeſus is the true Meſſias of whom the
+<pb n="12" facs="tcp:49457:8"/>
+Prophets ſpoke ſo long before, becauſe his coming doth thus exactly agree with the time allotted in this Prophecie (according as I have explained it) for the coming of the Meſſias. Now as the foregoing Prophecie is exactly accompliſhed in the end of our Saviours firſt coming, ſo alſo are the two following prophecies of the ſame <hi>Daniel</hi> plainly fulfilled in the beginning of the firſt coming of Chriſt at his concep<g ref="char:EOLhyphen"/>tion and nativity.<note place="margin">
+                     <hi>Dan.</hi> 7.25.</note> The firſt is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>until a time and times, and the dividing of time</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a time</hi> is the greateſt age of a man 100. years (according to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Pizke Aboth</hi> where the rules of life are pro<g ref="char:EOLhyphen"/>portioned to every age till 100. years, beyond which if a man live, his time is no more accounted then if he were dead, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>after a hundred years he is as one dead and gone, and annihilated from the world</hi>) and two times conſequently 200. years, and the dividing of time 50. years, which are in all 350. according to the ſame account in an other pro<g ref="char:EOLhyphen"/>phecie of the Meſſias <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>that it ſhall be for a time,</hi>
+                  <note place="margin">
+                     <hi>Dan.</hi> 21.7.</note> 
+                  <hi>time, and an half.</hi> Now from the building of the ſecond temple to the Nativity of our Lord, are about 350. years, and accordingly at that time the Prophecies were both fulfilled. In him alſo were accompliſhed that death and paſſion which it be<g ref="char:EOLhyphen"/>hoved the Meſſias to ſuffer, according to the Prophet <hi>Iſaiah</hi> (the particular explication whereof I reſerve to the Treatiſe already promiſed) In him was fulfilled the Prohecie of <hi>Haggai</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>The glory of this latter houſe,</hi>
+                  <note place="margin">
+                     <hi>Chap.</hi> 52.53.</note> 
+                  <note place="margin">
+                     <hi>Chap.</hi> 52.</note> 
+                  <hi>ſhall be greater then of the former.</hi> In what <hi>my Brethren</hi> did this ſuperi<g ref="char:EOLhyphen"/>ority conſiſt? Ye know that in the ſecond temple was neither Prophecy nor <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> celeſtial fire for ſa<g ref="char:EOLhyphen"/>crifices nor ſeveral of thoſe other excellencies where<g ref="char:EOLhyphen"/>with
+<pb n="13" facs="tcp:49457:8"/>
+the firſt was magnified. But here was the ad<g ref="char:EOLhyphen"/>vantage of the ſecond Temple; that whilſt it remain<g ref="char:EOLhyphen"/>ed, This Meſſias, This Son of God was to come and redeem mankind, and erect a ſpiritual temple in the ſouls of believers in all parts of the world for God to inhabit, inſtead of that viſible temple at <hi>Jeruſalem,</hi> therefore this houſe is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the laſt</hi> and not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the ſecond,</hi> to ſignifie that after the deſtruction of this, there ſhould be no more material fabricks, nei<g ref="char:EOLhyphen"/>ther would God any longer dwell in temples made with hands. The coming of this Meſſias hath alſo made apparent the truth of that Prophecy of <hi>Zachariah</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>The Lord ſhall be King over all the earth,</hi>
+                  <note place="margin">
+                     <hi>Zech.</hi> 14. <hi>v.</hi> 9.</note> that is the world ſhall ceaſe from Idola<g ref="char:EOLhyphen"/>try, and come to the acknowledgment of the true God, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jehovah ſhall be one, and his name one,</hi> that is, The Meſſias (who is called Je<g ref="char:EOLhyphen"/>hovah, as I have proved before) is together with God the Father, one in name and one in nature, ſubſtance and eſſence: and, Brethren, let not this myſtery of the bleſſed Trinity (which I know is your greateſt quar<g ref="char:EOLhyphen"/>rel with the Chriſtian Religion) ſeem ſo ſtrange; ſee<g ref="char:EOLhyphen"/>ing the manner of all things relating to the Godhead is inexplicable, ye alſo have two <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Articles</hi> which at firſt view ſeem inconſiſtent and hardly to be acco<g ref="char:EOLhyphen"/>modated to our underſtanding: and yet your ſelves hold it neceſſary to believe them both, <hi>viz.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Divine preſcience,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>that freedom of will</hi> which makes a man capable of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>puniſhment or reward,</hi> and the great Rabbi <hi>Maimon</hi> eſteems it e<g ref="char:EOLhyphen"/>nough for the removing of this difficulty ro ſay that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Divine knowledge is not as ours,</hi> that we cannot conceive how the preſcience of God is be<g ref="char:EOLhyphen"/>cauſe
+<pb n="14" facs="tcp:49457:9"/>
+it is not diſtinct from, but the ſame thing with the divine Eſſence, and conſequently Gods Eſ<g ref="char:EOLhyphen"/>ſence would not be incomprehenſible, if his preſcience were not ſo. Whereupon your Doctors ſay in the ex<g ref="char:EOLhyphen"/>plication of the aforecited words of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Maimon,</hi> that we ought to believe thoſe Articles though we are not able to conceive the manner how they conſiſt toge<g ref="char:EOLhyphen"/>ther; which anſwer if you admit as true and ſufficient in the caſe of preſcience and free-will, by the ſame reaſon it ought to be accepted <hi>ſo far</hi> in the Article of the Bleſſed Trinity as not to conclude it therefore im<g ref="char:EOLhyphen"/>poſſible to be true becauſe it is incomprehenſible, eſ<g ref="char:EOLhyphen"/>pecially ſeeing your <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Cabbaliſts</hi> in ſeveral places affirm as hard things in effect, and not unlike to thoſe which the Chriſtian faith teacheth concerning the Trinity, <hi>viz.</hi> That the three firſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>celeſtial Orders which are</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Crown, Knowledge, Intelligence,</hi> (ſignified by the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jah</hi> (which is derived from the name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jehovah</hi> (cannot ſuffer any <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſepara<g ref="char:EOLhyphen"/>tion,</hi> that they are three, yet but one eſſence; and how difficult ſoever this matter may ſeem to you, I doubt not to prove it from your own books, and particu<g ref="char:EOLhyphen"/>larly from plain and clear Allegations out of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Zoar.</hi>
+               </p>
+               <p>I will not enlarge my diſcourſe further in the ex<g ref="char:EOLhyphen"/>plication of all the Prophecies which make mention of the <hi>Meſsias,</hi> how they are accompliſhed <hi>in Chriſt</hi> our Saviour, becauſe it is an argument already in<g ref="char:EOLhyphen"/>ſiſted on by many excellent writers, and I my ſelf alſo purpoſe with the aſſiſtance of God to treat more fully of it hereafter.</p>
+               <p>I conclude them with an obſervation <hi>now</hi> common<g ref="char:EOLhyphen"/>ly known; but originally taken from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:49457:9"/>
+                  <hi>the Lectures of the College of Eliah, viz.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>The world is to continue ſix Thouſand years, Two thouſand empty, Two thouſand Law, Two thouſand the dayes of the Meſſias.</hi> That there were two thouſand years from the Creation of the world to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the giving of the Law</hi> is agreed on all hands; and of the remaining four thouſand which according to your Rabbies were to be equally divided betwixt the Law of <hi>Moſes</hi> and the <hi>Meſſias,</hi> three thouſand and ſix hun<g ref="char:EOLhyphen"/>dred are already paſt, and you are ſtill expecting the <hi>Meſſias,</hi> and will not yet allow the ſecond period of this threefold diviſion to be compleat and ended.</p>
+               <p>The ſum of all in few words is this.</p>
+               <p>The Law of <hi>Moſes</hi> was to be changed.</p>
+               <p>The expected <hi>Meſſias</hi> was to come in ſuch a pre<g ref="char:EOLhyphen"/>fixed time.</p>
+               <p>He was to be God and Man in one perſon.</p>
+               <p>He was to ſuffer and die.</p>
+               <p>He was to be the Redeemer of the world.</p>
+               <p>He was to take away Idolatry.</p>
+               <p>All which according to the cleareſt evidence of <hi>Scripture, Hiſtory</hi> and <hi>Tradition,</hi> are ſo fulfilled in the perſon of <hi>Jeſus of Nazareth</hi> as to leave it without con<g ref="char:EOLhyphen"/>troverſie that he is the true <hi>Meſſias,</hi> whoſe coming was foretold by <hi>Moſes</hi> and the <hi>Prophets.</hi>
+               </p>
+               <p>TO him therefore my earneſt deſire and prayer is, that after this long and almoſt invincible obſtina<g ref="char:EOLhyphen"/>cy of our nation, the truth which I have imbraced may be believed and acknowledged by you all, that ye may be delivered from the curſes to which unbelievers are liable, and may receive a reward with the ſoul of the faithful at our Saviours Second Coming.</p>
+               <p>
+                  <pb n="16" facs="tcp:49457:10"/>ALthough ye are not ignorant with what ſolemn profeſsions and vows men are admitted and recei<g ref="char:EOLhyphen"/>ved into the Church of Chriſt, yet that ye may know what further ſatisfaction to the Chriſtian world is juſt<g ref="char:EOLhyphen"/>ly expected from them, who live ſo long in obſtinacy and infidelity, I will here add that Renunciation of my former errours, and that profeſsion of my belief, which I made in the preſence of divers honourable perſons, and a great multitude of witneſſes, according to the queſtions propoſed unto me immediately be<g ref="char:EOLhyphen"/>fore my Baptiſm.</p>
+               <p>Q. What is your deſire?</p>
+               <p>
+                  <hi>A.</hi> I deſire to be admitted into the Communion of the Catholick Church of Chriſt, by the holy ordinance of Baptiſm, that I may live under the Government and may enjoy the bleſsings and priviledges of the king<g ref="char:EOLhyphen"/>dom of God for my Comfort in this world, and my Salvation in the world to come.</p>
+               <p>
+                  <hi>Q.</hi> Do you ſincerely acknowledge (as you hope for the mercy of God at the day of judgement) that the Lord Jeſus (in whom the Chriſtians believe) is the eternal Son of God, the true Meſsias and Saviour of the world, and that no other Meſſias is to be looked for?</p>
+               <p>
+                  <hi>A.</hi> Yes, as I hope for mercy from God, whom I deſire to deal with me in this world, and that to come, as I heartily believe it.</p>
+               <p>
+                  <hi>Q.</hi> What arguments perſwaded you to this be<g ref="char:EOLhyphen"/>lief?</p>
+               <p>
+                  <hi>A.</hi> The Prophecies mentioned in the old Teſtament concerning the Meſsias, and fulfilled in the perſon of our Saviour the Lord Jeſus Chriſt.</p>
+               <p>The Miracles wrought by him and his Diſciples.</p>
+               <p>
+                  <pb n="17" facs="tcp:49457:10"/>The holineſs of his life, his purity, and humility.</p>
+               <p>The excellency of his doctrine.</p>
+               <p>The miſeries in which the Jewiſh nation hath been involved theſe 1600. years for crucifying the Lord Jeſus, and rejecting his Law.</p>
+               <p>
+                  <hi>Q.</hi> Do you renounce the errours of Judaiſm, and with all your heart embrace the doctrine of Chriſti<g ref="char:EOLhyphen"/>anity?</p>
+               <p>
+                  <hi>A.</hi> Yes verily.</p>
+               <p>
+                  <hi>Q.</hi> Have you a firm reſolution to conform your life and manners to the purity and holineſs of that rule which the Catholick Church obſerves?</p>
+               <p>
+                  <hi>A.</hi> I will do ſo by the help of our Lord Jeſus Chriſt.</p>
+               <p>
+                  <hi>Q.</hi> Will you be received into the Covenant of the Goſpel, and be conſecrated to the obſervance of it, by the holy water of Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> That is my moſt earneſt deſire.</p>
+               <p>
+                  <hi>Q.</hi> What benefit do you expect from this Bap<g ref="char:EOLhyphen"/>tiſm?</p>
+               <p>
+                  <hi>A.</hi> To be purged from my ſins in the blood of Chriſt, by which he hath appeaſed the anger of God.</p>
+               <p>To be juſtified by his righteouſneſs.</p>
+               <p>To be reconciled unto God by his mediation and interceſſion.</p>
+               <p>To be cleanſed from the guilt both of original and actual tranſgreſsion, and obtain the grace of Regene<g ref="char:EOLhyphen"/>ration, to deſtroy the power of ſin, and enable me to live in righteouſneſs and true holineſs, that I may be a member of the myſtical body of Chriſt, which is his Church, and that I may be a childe of God and an heir of the kingdom of heaven.</p>
+               <p>
+                  <hi>Q.</hi> Upon what terms do you expect theſe graces and benefits?</p>
+               <p>
+                  <pb n="16" facs="tcp:49457:11"/>A. Upon the terms of true repentance for all my ſins paſt, of a living faith and univerſal obedience to the commandments of Chriſt.</p>
+               <p>Q. Are you heartily ſorry for your ſins and treſ<g ref="char:EOLhyphen"/>paſſes, and for the errours and obſtinacy of your na<g ref="char:EOLhyphen"/>tion, whereby they approve the malice of their fore<g ref="char:EOLhyphen"/>fathers, and are guilty of the death of our Lord and Saviour Jeſus Chriſt?</p>
+               <p>
+                  <hi>A.</hi> Yes verily, I am truly ſenſible of their ſins, and my own, and am heartily ſorry for them.</p>
+               <p>
+                  <hi>Q.</hi> Doſt thou renounce the Devil and all his works, the vain pomp and glory of the world, with all co<g ref="char:EOLhyphen"/>vetous deſires of the ſame, and the carnal deſires of the fleſh, ſo that thou wilt not follow, nor be ed by them?</p>
+               <p>A. I renounce them all.</p>
+               <p>
+                  <hi>Q.</hi> Doſt thou believe in God the Father Almighty, Maker of heaven and earth? And in Jeſus Chriſt his onely begotten Son our Lord? And that he was con<g ref="char:EOLhyphen"/>ceived by the holy Ghoſt; born of the Virgin Mary; that he ſuffered under Pontius Pilate, was crucified, dead, and buried; that he went down into Hell, and alſo did riſe again the third day; that he aſcended into Heaven, and ſitteth at the right hand of God the Fa<g ref="char:EOLhyphen"/>ther Almighty; and from thence ſhall come again at the end of the world to judge the quick and the dead? And doeſt thou believe the holy Ghoſt; the holy Ca<g ref="char:EOLhyphen"/>tholick Church; the Communion of Saints; the re<g ref="char:EOLhyphen"/>miſsion of ſins; the Reſurrection of the fleſh; and ever<g ref="char:EOLhyphen"/>laſting life after death?</p>
+               <p>
+                  <hi>A.</hi> All this I ſtedfaſtly believe.</p>
+               <p>
+                  <pb n="19" facs="tcp:49457:11"/>Q. Wilt thou be baptized in this Faith?</p>
+               <p>A. That is my deſire.</p>
+               <p>Q. Wilt thou then obediently keep Gods holy will and Commandments, and walk in the ſame all the dayes of thy life?</p>
+               <p>A. I will endeavour ſo to do, God being my helper.</p>
+               <p>After theſe anſwers I was received to the holy Sa<g ref="char:EOLhyphen"/>crament of Baptiſm, and the promiſe made to our forefathers was (by divine grace) fulfilled in me, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Then will I Sprinkle clean water upon you,</hi>
+                  <note place="margin">
+                     <hi>Ezek.</hi> 36. <hi>v.</hi> 26.</note> 
+                  <hi>and ye ſhall be clean from all your filthineſs, and from all your idols will I cleanſe you, a new heart alſo will I give you, and a new ſpirit will I put within you.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <closer>
+                  <signed>Paul Colend Scialitti.</signed>
+               </closer>
+            </div>
+            <div type="authentication">
+               <p>This ſolemnity was performed <hi>June</hi> 14. 1663. on the Feaſt of the Bleſſed Trinity, at <hi>St. Margarets Weſt<g ref="char:EOLhyphen"/>minſter,</hi> by the Reverend Dr. <hi>Warmeſtre</hi> Dean of <hi>Wor<g ref="char:EOLhyphen"/>ceſter.</hi>
+               </p>
+               <p>And the Right Reverend Father in God, <hi>George</hi> Lord Biſhop of <hi>Cheſter,</hi> and <hi>Samuel Collins</hi> Dr. in Phy<g ref="char:EOLhyphen"/>ſick, were Godfathers; and the right honourable the Counteſs of <hi>Huntingdon,</hi> was Godmother.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:49457:12"/>
+            <pb facs="tcp:49457:12"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aed. Sabaud.</hi> 
+                  <date>Junii <hi>18. 1663.</hi>
+                  </date>
+               </dateline>
+               <signed>Geor. Stradling <hi>S. T. P.</hi> Rever. in Chriſto Pat. D. Gilbert. Epiſc. Lond. à ſac. Domeſtic.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
